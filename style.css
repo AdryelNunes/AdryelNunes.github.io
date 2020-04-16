@@ -35,8 +35,8 @@ html, body {
 
 .img-modal {
     position: relative;
-    left: 65px;
-    width: 15rem;
+    width: 100%;
+    padding: 25px;
 }
 
 .default {
