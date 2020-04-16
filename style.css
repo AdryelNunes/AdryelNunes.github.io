@@ -35,13 +35,14 @@ html, body {
 
 .img-modal {
     position: relative;
-    left: 110px;
+    left: 65px;
+    width: 15rem;
 }
 
 .default {
     width: 60%;
     position: relative;
-    left: 170px;
+    left: 90px;
 }
 
 .default-img1 {
@@ -119,10 +120,6 @@ html, body {
         left: 5px;
         top: 0px;
     }
-
-    .footer-text {
-        left: 265px;
-    }
 }
 
 @media (min-width: 768px) {
@@ -153,10 +150,6 @@ html, body {
         width: 35%;
         position: relative;
         left: 5px;
-    }
-
-    .footer-text{
-        left: 465px;
     }
 }
 
@@ -189,10 +182,6 @@ html, body {
         position: relative;
         left: 3px;
     }
-
-    .footer-text {    
-        left: 545px;
-    }
 }
 
 @media (min-width: 1200px) {
@@ -201,10 +190,6 @@ html, body {
         position: relative;
         left: 553px;
     }  
-
-    .footer-text {    
-        left: 615px;
-    }
 }
 
 @media (min-width: 1400px) {
