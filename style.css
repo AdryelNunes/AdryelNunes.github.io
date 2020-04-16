@@ -58,14 +58,14 @@ html, body {
 .default-img3 {
     width: 35%;
     position: relative;
-    top: 0px;
+    top: 5px;
 }
 
 .default-img4 {
     width: 35%;
     position: relative;
     left: 5px;
-    top: 0px;
+    top: 5px;
 }
 
 .lyrics {
@@ -146,13 +146,15 @@ html, body {
     .default-img3 {
         width: 35%;
         position: relative;
-        left: 5px;
+        left: 0px;
+        padding-top: 10px;
     }
     
     .default-img4 {
         width: 35%;
         position: relative;
-        left: 3px;
+        left: 5px;
+        padding-top: 10px;
     }
 
     .footer-text{
