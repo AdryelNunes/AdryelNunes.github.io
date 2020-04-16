@@ -36,7 +36,7 @@ html, body {
 .img-modal {
     position: relative;
     width: 100%;
-    height: 50%;
+    height: 10px;
     min-height: 50vh;
     padding: 25px;
 }
@@ -44,7 +44,7 @@ html, body {
 .default {
     width: 60%;
     position: relative;
-    left: 90px;
+    left: 92px;
 }
 
 .default-img1 {
