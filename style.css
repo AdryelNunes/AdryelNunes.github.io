@@ -215,3 +215,11 @@ html, body {
         left: 620px;
     }  
 }
+
+@media (min-width: 1600px) {
+    .default {
+        width: 80%;
+        position: relative;
+        left: 770px;
+    }  
+}
